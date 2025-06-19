@@ -1,10 +1,6 @@
 name: Auto Update Profile
 
 on:
-  push:
-    branches:
-      - master
-      - main
   schedule:
     - cron: '0 8 * * *'  # Daily at 8 AM
   workflow_dispatch:
