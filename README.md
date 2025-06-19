@@ -12,7 +12,6 @@ I'm a passionate developer who loves creating innovative solutions and exploring
 - 🌱 I'm learning **new technologies**
 - 👯 I'm looking to collaborate on **open source projects**
 - 💬 Ask me about **anything tech-related**
-- 📫 How to reach me: **your-email@example.com**
 
 ## 🛠️ Tech Stack
 
@@ -33,6 +32,11 @@ I'm a passionate developer who loves creating innovative solutions and exploring
   ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
   
 </div>
+
+## 📈 Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ## 📊 GitHub Stats
 
