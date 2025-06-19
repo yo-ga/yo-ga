@@ -1,0 +1,35 @@
+name: Update GitHub Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Daily at midnight
+  workflow_dispatch:
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        
+      - name: Generate GitHub Stats
+        uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_OS: 'True'
+          SHOW_PROJECTS: 'True'
+          SHOW_EDITORS: 'True'
+          SHOW_LANGUAGE: 'True'
+          SHOW_LINE_OF_CODE: 'True'
+          SHOW_PROFILE_VIEWS: 'True'
+          SHOW_SHORT_INFO: 'True'
+          SHOW_TIMEZONE: 'True'
+          SHOW_LOC_CHART: 'True'
+          LOCALE: 'zh'
+          
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }} 
