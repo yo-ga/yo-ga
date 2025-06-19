@@ -57,28 +57,12 @@ I'm a passionate developer who loves creating innovative solutions and exploring
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yo-ga&theme=radical" alt="Contribution Graph" />
 </div>
 
-## 🎯 Featured Projects
-
-<div align="center">
-  
-  <a href="https://github.com/yo-ga/project-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yo-ga&repo=project-1&theme=radical" />
-  </a>
-  
-  <a href="https://github.com/yo-ga/project-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yo-ga&repo=project-2&theme=radical" />
-  </a>
-  
-</div>
-
 ## 🤝 Connect With Me
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-  [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
-  [![Blog](https://img.shields.io/badge/-Blog-FF5722?style=for-the-badge&logo=medium&logoColor=white)](https://your-blog.com)
-  [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio.com)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yo-ga)
+  [![Blog](https://img.shields.io/badge/-Blog-FF5722?style=for-the-badge&logo=medium&logoColor=white)](https://yo-ga.space)
   
 </div>
 
