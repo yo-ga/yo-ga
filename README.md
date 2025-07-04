@@ -36,10 +36,10 @@ I'm a passionate developer who loves creating innovative solutions and exploring
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5447](https://github.com/Kapeli/Dash-User-Contributions/pull/5447) in [Kapeli/Dash-User-Contributions](https://github.com/Kapeli/Dash-User-Contributions)
-2. 🚀 Published release [v2.202.0-1750503913](https://github.com/yo-ga/dash-docset-aws-cdk-python/releases/tag/v2.202.0-1750503913) in [yo-ga/dash-docset-aws-cdk-python](https://github.com/yo-ga/dash-docset-aws-cdk-python)
-3. 💪 Opened PR [#5446](https://github.com/Kapeli/Dash-User-Contributions/pull/5446) in [Kapeli/Dash-User-Contributions](https://github.com/Kapeli/Dash-User-Contributions)
-4. 🚀 Published release [v2.201.0-1750203515](https://github.com/yo-ga/dash-docset-aws-cdk-python/releases/tag/v2.201.0-1750203515) in [yo-ga/dash-docset-aws-cdk-python](https://github.com/yo-ga/dash-docset-aws-cdk-python)
+1. ❌ Closed PR [#5455](https://github.com/Kapeli/Dash-User-Contributions/pull/5455) in [Kapeli/Dash-User-Contributions](https://github.com/Kapeli/Dash-User-Contributions)
+2. 💪 Opened PR [#5456](https://github.com/Kapeli/Dash-User-Contributions/pull/5456) in [Kapeli/Dash-User-Contributions](https://github.com/Kapeli/Dash-User-Contributions)
+3. 🚀 Published release [v2.203.1-1751540931](https://github.com/yo-ga/dash-docset-aws-cdk-python/releases/tag/v2.203.1-1751540931) in [yo-ga/dash-docset-aws-cdk-python](https://github.com/yo-ga/dash-docset-aws-cdk-python)
+4. 💪 Opened PR [#5447](https://github.com/Kapeli/Dash-User-Contributions/pull/5447) in [Kapeli/Dash-User-Contributions](https://github.com/Kapeli/Dash-User-Contributions)
 <!--END_SECTION:activity-->
 
 ## 📊 GitHub Stats
