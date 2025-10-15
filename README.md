@@ -37,7 +37,7 @@ I'm a passionate developer who loves creating innovative solutions and exploring
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#28016](https://github.com/metabase/metabase/issues/28016#issuecomment-3324126917) in [metabase/metabase](https://github.com/metabase/metabase)
-2. 🎉 Merged PR [#1](https://github.com/yo-ga/grafana-metabase-dashboard/pull/1) in [yo-ga/grafana-metabase-dashboard](https://github.com/yo-ga/grafana-metabase-dashboard)
+2. 💪 Opened PR [#1](undefined) in [yo-ga/grafana-metabase-dashboard](https://github.com/yo-ga/grafana-metabase-dashboard)
 3. 💪 Opened PR [#1](https://github.com/yo-ga/grafana-metabase-dashboard/pull/1) in [yo-ga/grafana-metabase-dashboard](https://github.com/yo-ga/grafana-metabase-dashboard)
 4. 💪 Opened PR [#5482](https://github.com/Kapeli/Dash-User-Contributions/pull/5482) in [Kapeli/Dash-User-Contributions](https://github.com/Kapeli/Dash-User-Contributions)
 <!--END_SECTION:activity-->
