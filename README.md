@@ -36,10 +36,10 @@ I'm a passionate developer who loves creating innovative solutions and exploring
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#905](https://github.com/grafana/grafana-image-renderer/pull/905) in [grafana/grafana-image-renderer](https://github.com/grafana/grafana-image-renderer)
-2. 🗣 Commented on [#892](https://github.com/grafana/grafana-image-renderer/issues/892#issuecomment-3742477599) in [grafana/grafana-image-renderer](https://github.com/grafana/grafana-image-renderer)
-3. 💪 Opened PR [#1](https://github.com/yo-ga/grafana-metabase-dashboard/pull/1) in [yo-ga/grafana-metabase-dashboard](https://github.com/yo-ga/grafana-metabase-dashboard)
-4. 💪 Opened PR [#5482](https://github.com/Kapeli/Dash-User-Contributions/pull/5482) in [Kapeli/Dash-User-Contributions](https://github.com/Kapeli/Dash-User-Contributions)
+1. 🎉 Merged PR [#905](https://github.com/grafana/grafana-image-renderer/pull/905) in [grafana/grafana-image-renderer](https://github.com/grafana/grafana-image-renderer)
+2. ❌ Closed PR [#1](https://github.com/yo-ga/grafana-image-renderer/pull/1) in [yo-ga/grafana-image-renderer](https://github.com/yo-ga/grafana-image-renderer)
+3. 💪 Opened PR [#1](https://github.com/yo-ga/grafana-image-renderer/pull/1) in [yo-ga/grafana-image-renderer](https://github.com/yo-ga/grafana-image-renderer)
+4. 🗣 Commented on [#905](https://github.com/grafana/grafana-image-renderer/pull/905#issuecomment-3749985238) in [grafana/grafana-image-renderer](https://github.com/grafana/grafana-image-renderer)
 <!--END_SECTION:activity-->
 
 ## 📊 GitHub Stats
