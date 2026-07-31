@@ -36,9 +36,9 @@ I'm a passionate developer who loves creating innovative solutions and exploring
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#374](https://github.com/anthropics/claude-ai-mcp/issues/374#issuecomment-4629704986) in [anthropics/claude-ai-mcp](https://github.com/anthropics/claude-ai-mcp)
-2. 🗣 Commented on [#1](https://github.com/yo-ga/redis-rdb-tools/issues/1#issuecomment-4126672277) in [yo-ga/redis-rdb-tools](https://github.com/yo-ga/redis-rdb-tools)
-3. ❗ Opened issue [#1](https://github.com/yo-ga/redis-rdb-tools/issues/1) in [yo-ga/redis-rdb-tools](https://github.com/yo-ga/redis-rdb-tools)
+1. 🗣 Commented on [#14](https://github.com/yo-ga/remotion-lambda-cdk/pull/14#issuecomment-5130838612) in [yo-ga/remotion-lambda-cdk](https://github.com/yo-ga/remotion-lambda-cdk)
+2. ℹ️ Labeled issue [#13](https://github.com/yo-ga/remotion-lambda-cdk/issues/13) in [yo-ga/remotion-lambda-cdk](https://github.com/yo-ga/remotion-lambda-cdk)
+3. ❗ Opened issue [#13](https://github.com/yo-ga/remotion-lambda-cdk/issues/13) in [yo-ga/remotion-lambda-cdk](https://github.com/yo-ga/remotion-lambda-cdk)
 4. 💪 Opened PR [#905](https://github.com/grafana/grafana-image-renderer/pull/905) in [grafana/grafana-image-renderer](https://github.com/grafana/grafana-image-renderer)
 <!--END_SECTION:activity-->
 
