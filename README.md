@@ -36,10 +36,10 @@ I'm a passionate developer who loves creating innovative solutions and exploring
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4372](https://github.com/remotion-dev/remotion/issues/4372#issuecomment-5237766491) in [remotion-dev/remotion](https://github.com/remotion-dev/remotion)
-2. 🗣 Commented on [#14](https://github.com/yo-ga/remotion-lambda-cdk/pull/14#issuecomment-5130838612) in [yo-ga/remotion-lambda-cdk](https://github.com/yo-ga/remotion-lambda-cdk)
-3. ℹ️ Labeled issue [#13](https://github.com/yo-ga/remotion-lambda-cdk/issues/13) in [yo-ga/remotion-lambda-cdk](https://github.com/yo-ga/remotion-lambda-cdk)
-4. ❗ Opened issue [#13](https://github.com/yo-ga/remotion-lambda-cdk/issues/13) in [yo-ga/remotion-lambda-cdk](https://github.com/yo-ga/remotion-lambda-cdk)
+1. 🔒 Closed issue [#13](https://github.com/yo-ga/remotion-lambda-cdk/issues/13) in [yo-ga/remotion-lambda-cdk](https://github.com/yo-ga/remotion-lambda-cdk)
+2. 🗣 Commented on [#4372](https://github.com/remotion-dev/remotion/issues/4372#issuecomment-5237766491) in [remotion-dev/remotion](https://github.com/remotion-dev/remotion)
+3. 🗣 Commented on [#14](https://github.com/yo-ga/remotion-lambda-cdk/pull/14#issuecomment-5130838612) in [yo-ga/remotion-lambda-cdk](https://github.com/yo-ga/remotion-lambda-cdk)
+4. ℹ️ Labeled issue [#13](https://github.com/yo-ga/remotion-lambda-cdk/issues/13) in [yo-ga/remotion-lambda-cdk](https://github.com/yo-ga/remotion-lambda-cdk)
 <!--END_SECTION:activity-->
 
 ## 📊 GitHub Stats
